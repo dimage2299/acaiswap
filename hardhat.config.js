@@ -13,7 +13,7 @@ require("@nomiclabs/hardhat-etherscan");
       // comment out for local testing
       // uncomment for fork script
       // forking: {
-      //   url: "https://eth-mainnet.alchemyapi.io/v2/xvCrVTNc-KptCs44ACV1IyaLxcjWasuI",
+      //   url: "",
       //   enabled: false,
       // },
     },
